@@ -51,12 +51,12 @@ node server.js
 
 ## Autores ✒️
 
-_[Alejandro Sánchez](https://github.com/alesanca)_
+_[Alejandro Sánchez](https://github.com/alesanca): Apartado backend_
 
-_[Asier Guerra](https://github.com/Asier07)_
+_[Asier Guerra](https://github.com/Asier07): Apartado backend_
 
-_[Josué Noda](https://github.com/jnodre)_
+_[Josué Noda](https://github.com/jnodre): Apartado frontend_
 
-_[Belén Pulido](https://github.com/berlen15)_
+_[Belén Pulido](https://github.com/berlen15): Apartado backend_
 
 
