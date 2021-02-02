@@ -43,4 +43,17 @@ _Una vez tengamos esto, introducimos el siguiente comando y ya podremos ejecutar
 node server.js
 ```
 
+## Construido con 🛠️
+
+* [Angular](https://reactjs.org/) - Un framework de front muy usado actualmente.
+* [Node.js](https://angular.io/) - Es un entorno de ejecución de javascript enfocado hacia el backend.
+* [MongoDB](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_spain_search_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=1718986525&gclid=CjwKCAiAjeSABhAPEiwAqfxURe5JMUI_OJ2uvT_hPU0tQjVWFniOP09KNCgWAMuyyGWcftnsnxlFyRoCr2gQAvD_BwE) - Base de datos utilizada
+
+## Autores ✒️
+
+_[Alejandro Sánchez](https://github.com/alesanca)_
+_[Asier Guerra](https://github.com/Asier07)_
+_[Josué Noda](https://github.com/jnodre)_
+_[Belén Pulido](https://github.com/berlen15)_
+
 
