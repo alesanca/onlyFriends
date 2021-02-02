@@ -1,0 +1,41 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  place-content: center;
+  height: 100%;
+  margin: 0 auto;
+  background: #e8eaf6;
+  padding: 0 5%;
+  img {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: -40px;
+    margin-bottom: 20px;
+  }
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.rememberMeCheckBox {
+  margin-bottom: 1.34375em;
+}
+.bottomFormText {
+  padding-top: 1.34375em;
+  display: flex;
+  flex-direction: row;
+  place-content: center;
+  :first-child {
+    margin-right: 5px;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+.errorMessage {
+  color: #f44336;
+  font-size: 75%;
+}
