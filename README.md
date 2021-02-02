@@ -52,8 +52,11 @@ node server.js
 ## Autores ✒️
 
 _[Alejandro Sánchez](https://github.com/alesanca)_
+
 _[Asier Guerra](https://github.com/Asier07)_
+
 _[Josué Noda](https://github.com/jnodre)_
+
 _[Belén Pulido](https://github.com/berlen15)_
 
 
